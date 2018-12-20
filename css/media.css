@@ -1,0 +1,136 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	.img-1{
+	    width: 140px;
+}
+	.menu ul li a {
+  		padding: 0 0px ! important;
+   		text-align: right;
+}
+	.dn-btn {
+    	padding: 0 0px;
+    	text-align: right;
+}	
+	.search {
+	    padding: 0 0px;
+	    text-align: right;
+}
+	.bnr-contant h1 {
+	    font-size: 22px;
+}
+	.bnr-contant {
+    	margin-top: 60px;
+    	margin-bottom: 80px;
+
+}
+	.bnr-contant h1 {
+    	font-size: 20px;
+}
+	.img_btn {
+	    height: 50px;
+}
+	.about h2 {
+    	font-size: 26px;
+}
+	.education {
+    	padding: 40px 0;
+}
+	.wrraper {
+    	padding: 30px 0;
+}
+.card1 {
+    margin-top: 30px;
+
+ }
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+	.img-1{
+	    width: 170px;
+}
+	.menu ul li a {
+    	padding: 0 0px ! important;
+    	text-align: right;
+}
+	.dn-btn {
+    	padding: 0 0px;
+    	text-align: right;
+}	
+	.search {
+	    padding: 0 0px;
+	    text-align: right;
+}
+	.bnr-contant {
+	    margin-top: 120px;
+	    margin-bottom: 170px;
+}
+	.bnr-contant h1 {
+    	font-size: 30px;
+}
+	.img_btn {
+    height: 70px;
+}
+	.education {
+    padding: 50px 0;
+}
+ }
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+	.img-1{
+	    width: 170px;
+}
+	.menu ul li a {
+    	padding: 0 0px ! important;
+    	text-align: right;
+}
+	.dn-btn {
+    	padding: 0 0px;
+    	text-align: right;
+}			
+	.search {
+    	padding: 0 0px;
+    	text-align: right;
+}
+	.bnr-contant {
+    	margin-top: 150px;
+    	margin-bottom: 140px;
+}
+	.bnr-contant h1 {
+	    font-size: 32px;
+}
+	.img_btn {
+	    height: 60px;
+}
+.education {
+    padding: 30px 0;
+}
+	.about_img {
+	    margin-top: 100px;
+}
+	.about_img {
+	    margin-top: 80px;
+}
+ }
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+		.bnr-contant {
+	    margin-top: 220px;
+	    margin-bottom: 190px;
+}
+	.bnr-contant h1 {
+    font-size: 40px;
+}
+	.img_btn {
+	    height: 80px;
+}
+	.about_img {
+	    margin-top: 80px;
+}
+
+ }
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+
+}
